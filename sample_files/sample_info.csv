@@ -1,0 +1,147 @@
+,var1,batch
+C01,Pre-acclimation,2
+C02,Pre-acclimation,1
+C03,Pre-acclimation,1
+C04,Pre-acclimation,2
+C05,Pre-acclimation,1
+C06,Pre-acclimation,1
+C07,Pre-acclimation,1
+C08,Pre-acclimation,2
+C09,Pre-acclimation,2
+C10,Pre-acclimation,2
+C11,Pre-acclimation,2
+C12,Pre-acclimation,1
+C13,Acclimation Light,2
+C14,Acclimation Light,2
+C15,Acclimation Light,1
+C16,Acclimation Light,2
+C17,Acclimation Light,2
+C18,Acclimation Light,1
+C19,Acclimation Light,2
+C20,Acclimation Light,2
+C21,Acclimation Light,1
+C22,Acclimation Light,2
+C23,Acclimation Light,2
+C24,Acclimation Light,2
+C25,Acclimation Shaded,2
+C26,Acclimation Shaded,2
+C27,Acclimation Shaded,2
+C28,Acclimation Shaded,1
+C29,Acclimation Shaded,1
+C30,Acclimation Shaded,1
+C31,Acclimation Shaded,1
+C32,Acclimation Shaded,1
+C33,Acclimation Shaded,2
+C34,Acclimation Shaded,1
+C35,Acclimation Shaded,2
+C36,Acclimation Shaded,1
+C37,Light_heat,1
+C38,Light_heat,1
+C39,Light_heat,1
+C40,Light_heat,1
+C41,Light_heat,1
+C42,Light_heat,1
+C43,Light_control,1
+C44,Light_control,1
+C45,Light_control,2
+C46,Light_control,2
+C47,Light_control,2
+C48,Light_control,1
+C49,Shade_heat,1
+C50,Shade_heat,1
+C51,Shade_heat,2
+C52,Shade_heat,1
+C53,Shade_heat,2
+C54,Shade_heat,2
+C55,Shade_control,2
+C56,Shade_control,1
+C57,Shade_control,2
+C58,Shade_control,1
+C59,Shade_control,1
+C60,Shade_control,1
+C85,Light_heat,2
+C86,Light_heat,2
+C87,Light_heat,2
+C88,Light_heat,1
+C89,Light_heat,1
+C90,Light_heat,1
+C91,Light_control,2
+C92,Light_control,2
+C93,Light_control,2
+C94,Light_control,2
+C95,Light_control,2
+C96,Light_control,2
+C97,Shade_heat,1
+C98,Shade_heat,1
+C99,Shade_heat,1
+C100,Shade_heat,1
+C101,Shade_heat,2
+C102,Shade_heat,1
+C103,Shade_control,1
+C104,Shade_control,1
+C105,Shade_control,2
+C106,Shade_control,1
+C107,Shade_control,2
+C108,Shade_control,1
+C133,Light_heat,2
+C134,Light_heat,1
+C135,Light_heat,1
+C136,Light_heat,1
+C137,Light_heat,2
+C138,Light_heat,2
+C139,Light_control,2
+C140,Light_control,2
+C141,Light_control,1
+C142,Light_control,1
+C143,Light_control,2
+C144,Light_control,2
+C145,Shade_heat,2
+C146,Shade_heat,2
+C147,Shade_heat,2
+C148,Shade_heat,1
+C149,Shade_heat,2
+C150,Shade_heat,2
+C151,Shade_control,1
+C152,Shade_control,2
+C153,Shade_control,1
+C154,Shade_control,1
+C155,Shade_control,1
+C156,Shade_control,1
+C181,Light_heat,2
+C182,Light_heat,2
+C183,Light_heat,2
+C184,Light_heat,2
+C185,Light_heat,2
+C186,Light_heat,1
+C187,Light_control,1
+C188,Light_control,2
+C189,Light_control,2
+C190,Light_control,1
+C191,Light_control,1
+C192,Light_control,1
+C193,Shade_heat,2
+C194,Shade_heat,2
+C195,Shade_heat,2
+C196,Shade_heat,2
+C197,Shade_heat,2
+C198,Shade_heat,1
+C199,Shade_control,1
+C200,Shade_control,1
+C201,Shade_control,1
+C202,Shade_control,1
+C203,Shade_control,2
+C204,Shade_control,1
+PBQC1_1,PBQC,1
+PBQC1_2,PBQC,2
+PBQC2_1,PBQC,1
+PBQC2_2,PBQC,2
+PBQC3_1,PBQC,1
+PBQC3_2,PBQC,2
+PBQC4_1,PBQC,1
+PBQC4_2,PBQC,2
+PBQC5_1,PBQC,1
+PBQC5_2,PBQC,2
+PBQC6_1,PBQC,1
+PBQC6_2,PBQC,2
+PBQC7_1,PBQC,1
+PBQC7_2,PBQC,2
